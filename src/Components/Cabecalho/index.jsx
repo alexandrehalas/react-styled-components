@@ -1,7 +1,7 @@
 import React from "react";
 import styled from 'styled-components';
 import bank_logo from "../../assets/images/bank_logo.svg";
-import { corPrimaria } from "../UI/Variaveis";
+import { corPrimaria } from "../UI/variaveis";
 
 const StyledHeader = styled.nav`
   background-color: ${corPrimaria};
